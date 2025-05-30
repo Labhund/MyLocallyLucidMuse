@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-wheel-metadata/
+.idea/
+.vscode/ # Optional: if you don't want to commit VS Code workspace settings
+
+# Node / React (Vite)
+node_modules/
+dist/
+.env
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
